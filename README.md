@@ -1,2 +1,5 @@
-# curriculum.md
-My curriculum vitae written with Markdown syntax.
+# Lucio Morelli
+## Curriculum Vitae
+My CV written by Markdown syntax
+
+# WORK IN PROGRESS...
