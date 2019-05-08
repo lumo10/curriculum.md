@@ -27,4 +27,9 @@
 ## Skills
 ## Experience
 ## Projects
+* [Armani.com](https://www.armani.com/it/armanicom)
+* [Mafra.com](https://www.mafra.com/)
+ 
 ## Languages
+* :it: Italian
+* :gb: English
