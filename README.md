@@ -22,9 +22,9 @@
 
   
   
-##Contact
-##Education
-##Skills
-##Experience
-##Projects
-##Languages
+## Contact
+## Education
+## Skills
+## Experience
+## Projects
+## Languages
