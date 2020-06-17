@@ -27,7 +27,8 @@
 ## Skills
 ## Experience
 ## Projects
-* [Armani.com](https://www.armani.com/it/armanicom)
+* [Armani.com](https://www.armani.com)
+* [Armaniexchange.com](https://www.armaniexchange.com)
 * [Mafra.com](https://www.mafra.com/)
  
 ## Languages
