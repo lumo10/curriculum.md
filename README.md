@@ -1,12 +1,13 @@
-<p style="text-align: center">
-  <img src="me.jpg" alt="Lucio Morelli" width="160"/>
+<p align="center" style="text-align: center">
+  <img src="me.jpg" alt="Lucio Morelli" width="160" height="160"/>
 </p>
 
 # Lucio Morelli
 **Senior Frontend Engineer | Tech Lead**  
 Bologna, Italy  
 Email: luciomorelli10@gmail.com  
-LinkedIn: https://www.linkedin.com/in/luciomorelli
+LinkedIn: https://www.linkedin.com/in/luciomorelli  
+GitHub: https://github.com/lumo10/
 
 ---
 
