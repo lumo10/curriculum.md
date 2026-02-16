@@ -11,7 +11,7 @@ LinkedIn: https://www.linkedin.com/in/luciomorelli
 ---
 
 ## Summary
-Senior Frontend Engineer and Tech Lead with 8+ years of experience building large-scale ecommerce and enterprise platforms.  
+Senior Frontend Engineer and Tech Lead with 10+ years of experience building large-scale ecommerce and enterprise platforms.  
 Specialized in performance optimization, scalable frontend architectures, accessibility, and team leadership.  
 Strong experience coordinating development teams and delivering high-impact business applications in agile environments.
 
