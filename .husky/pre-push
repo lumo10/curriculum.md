@@ -1,0 +1,21 @@
+#!/bin/sh
+. "$(dirname "$0")/_/husky.sh"
+
+# Check if README.md has been modified
+if git diff origin/HEAD...HEAD --name-only | grep -q "README.md"; then
+  echo "📄 Generating PDF from README.md..."
+  npm run build:pdf
+
+  if [ $? -eq 0 ]; then
+    echo "✅ PDF generated successfully!"
+    git add README.pdf
+    git commit --amend --no-edit
+    echo "✅ PDF committed!"
+  else
+    echo "❌ Error generating PDF"
+    exit 1
+  fi
+else
+  echo "ℹ️ README.md not modified"
+fi
+
